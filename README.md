@@ -71,7 +71,6 @@
 
 - 객체지향 프로그래밍 (OOP)의 원리 이해
 - Java & Spring Boot 기반의 백엔드 구조
-- REST API 개발 및 테스트 (Postman 사용)
 - MySQL 연동 및 JPA 기본 사용법
 - Python 기초 및 자동화 스크립트 연습
 
